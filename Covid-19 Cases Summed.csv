@@ -1,14 +1,3 @@
-Country,Daily new confirmed cases of COVID-19
-Australia,11362275.0
-Brazil,37024990.0
-Canada,4591153.0
-China,99030129.0
-Egypt,515698.0
-Germany,38144033.0
-Morocco,1272445.0
-Russia,22272470.0
-Saudi Arabia,829388.0
-South Africa,4060385.0
-United Arab Emirates,1051930.0
-United Kingdom,24370154.0
-United States,102049836.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:15708de3c1d1a0ad0464ac34ca58fe70904cc2e914ffc0c1362bef7baacd9177
+size 331
